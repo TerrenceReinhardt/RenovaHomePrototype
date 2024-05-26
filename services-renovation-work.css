@@ -1,0 +1,460 @@
+.background23 {
+  background-color: var(--color-white);
+}
+.background22,
+.background23 {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 1920px;
+  height: 2282px;
+}
+.image-icon35 {
+  width: 600px;
+  position: relative;
+  height: 377px;
+  object-fit: cover;
+}
+.we-innovate-dreams-container3 {
+  width: 100%;
+}
+.we-innovate-dreams-container2 {
+  width: 518px;
+  position: relative;
+  letter-spacing: 0.02em;
+  line-height: 125%;
+  display: flex;
+  align-items: center;
+}
+.sub-content45 {
+  width: 518px;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+.our-projects1 {
+  position: relative;
+  letter-spacing: 0.02em;
+  line-height: 125%;
+  font-weight: 600;
+}
+.vector-icon13 {
+  width: 15.1px;
+  position: relative;
+  height: 13.2px;
+}
+.our-portfolio1 {
+  width: 139.1px;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: center;
+  gap: var(--gap-smi);
+}
+.button16,
+.content31 {
+  display: flex;
+  flex-direction: column;
+}
+.button16 {
+  box-shadow: 0 10px 20px rgba(192, 192, 192, 0.35);
+  border-radius: var(--br-lg);
+  background-color: var(--color-darkslategray);
+  align-items: center;
+  justify-content: center;
+  padding: var(--padding-7xl) var(--padding-21xl);
+  cursor: pointer;
+  text-align: center;
+  font-size: var(--font-size-lg);
+  color: var(--color-white);
+  font-family: var(--font-jost);
+}
+.content31 {
+  width: 518px;
+  align-items: flex-start;
+  justify-content: flex-start;
+  gap: var(--gap-13xl);
+}
+.result2,
+.video-icon1 {
+  position: absolute;
+  width: 1200px;
+}
+.result2 {
+  top: 1525px;
+  left: 361px;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: center;
+  gap: var(--gap-63xl);
+}
+.video-icon1 {
+  top: 490px;
+  left: 1px;
+  height: 372.7px;
+  object-fit: contain;
+}
+.work-for-comfort {
+  margin: 0;
+}
+.work-for-comfort-container {
+  width: 443px;
+  position: relative;
+  line-height: 125%;
+  display: flex;
+  align-items: center;
+  height: 420px;
+  flex-shrink: 0;
+}
+.embark-on-a1,
+.here-our-skilled {
+  width: 655px;
+  position: relative;
+  letter-spacing: 0.01em;
+  line-height: 150%;
+  display: inline-block;
+}
+.here-our-skilled {
+  font-size: var(--font-size-5xl);
+  color: var(--color-dimgray);
+  white-space: pre-wrap;
+}
+.details10,
+.sub-content46 {
+  display: flex;
+  align-items: flex-start;
+}
+.sub-content46 {
+  width: 655px;
+  flex-direction: column;
+  justify-content: flex-start;
+  gap: var(--gap-9xl);
+  font-size: var(--font-size-6xl);
+  color: var(--color-burlywood);
+  font-family: var(--font-jost);
+}
+.details10 {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 1200px;
+  height: 469.3px;
+  flex-direction: row;
+  justify-content: center;
+  gap: var(--gap-78xl);
+}
+.services38 {
+  position: absolute;
+  top: 561px;
+  left: 360px;
+  width: 1201px;
+  height: 862.7px;
+  font-size: var(--font-size-17xl);
+}
+.images-icon8 {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 1920px;
+  height: 356px;
+  object-fit: cover;
+}
+.home-services2,
+.renovation-work12 {
+  position: relative;
+  line-height: 125%;
+}
+.home-services2 {
+  font-size: var(--font-size-3xl);
+  letter-spacing: 0.01em;
+  line-height: 150%;
+  font-family: var(--font-jost);
+  color: var(--color-dimgray);
+  cursor: pointer;
+}
+.intro11,
+.title10 {
+  width: 311px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: flex-start;
+}
+.intro11 {
+  position: absolute;
+  top: 178px;
+  left: 708px;
+  border-radius: var(--br-18xl) var(--br-18xl) 0 0;
+  background-color: var(--color-white);
+  width: 503px;
+  justify-content: center;
+  padding: var(--padding-22xl) var(--padding-77xl);
+  box-sizing: border-box;
+}
+.banner11 {
+  position: absolute;
+  top: 139px;
+  left: 0;
+  width: 1920px;
+  height: 356px;
+}
+.renovahome22 {
+  position: absolute;
+  top: 0;
+  left: 44px;
+  line-height: 125%;
+}
+.logo-icon22 {
+  position: absolute;
+  height: 68%;
+  width: 12.23%;
+  top: 16%;
+  right: 87.77%;
+  bottom: 16%;
+  left: 0;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+}
+.logo22 {
+  width: 278px;
+  position: relative;
+  height: 50px;
+}
+.building-dreams-crafting11 {
+  width: 393px;
+  position: relative;
+  font-size: var(--font-size-3xl);
+  letter-spacing: 0.01em;
+  line-height: 150%;
+  font-family: var(--font-jost);
+  color: var(--color-dimgray);
+  display: flex;
+  align-items: center;
+}
+.sub-content47 {
+  width: 393px;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  gap: var(--gap-lg);
+}
+.div151,
+.div154 {
+  position: relative;
+  letter-spacing: 0.06em;
+  line-height: 120%;
+  text-transform: uppercase;
+}
+.div154 {
+  font-size: var(--font-size-lgi);
+}
+.icons11,
+.interno23 {
+  display: flex;
+  justify-content: flex-start;
+}
+.icons11 {
+  width: 225px;
+  flex-direction: row;
+  align-items: center;
+  gap: var(--gap-35xl);
+  text-align: center;
+  font-size: var(--font-size-lg);
+}
+.interno23 {
+  width: 393px;
+  flex-direction: column;
+  align-items: flex-start;
+  gap: var(--gap-12xl);
+  font-size: var(--font-size-21xl);
+}
+.utility11 {
+  position: relative;
+  font-size: var(--font-size-6xl);
+  line-height: 125%;
+  font-family: var(--font-dm-serif-display);
+  color: var(--color-darkslategray);
+}
+.about-us27,
+.home22 {
+  position: relative;
+  letter-spacing: 0.01em;
+  line-height: 300%;
+  align-items: center;
+  flex-shrink: 0;
+  cursor: pointer;
+}
+.home22 {
+  width: 125px;
+  display: flex;
+  height: 42px;
+}
+.about-us27 {
+  height: 36px;
+}
+.about-us27,
+.blogs11,
+.pages11 {
+  width: 125px;
+  display: flex;
+}
+.blogs11 {
+  position: relative;
+  letter-spacing: 0.01em;
+  line-height: 300%;
+  align-items: center;
+  height: 37px;
+  flex-shrink: 0;
+  cursor: pointer;
+}
+.pages11 {
+  height: 279px;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  color: var(--color-dimgray);
+  font-family: var(--font-jost);
+}
+.project-plan13 {
+  position: relative;
+  letter-spacing: 0.01em;
+  line-height: 300%;
+  cursor: pointer;
+}
+.services39 {
+  width: 120px;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  color: var(--color-dimgray);
+  font-family: var(--font-jost);
+}
+.contact36 {
+  width: 87px;
+  position: relative;
+  line-height: 125%;
+  display: flex;
+  align-items: center;
+}
+.jakarta-indonesia-renovahome23 {
+  line-height: 150%;
+}
+.com11,
+.p14 {
+  line-height: 300%;
+}
+.p14 {
+  margin: 0;
+}
+.jakarta-indonesia-renovahome-container22 {
+  width: 258px;
+  position: relative;
+  font-size: var(--font-size-3xl);
+  letter-spacing: 0.01em;
+  font-family: var(--font-jost);
+  color: var(--color-dimgray);
+  display: flex;
+  align-items: center;
+}
+.contact35 {
+  width: 258px;
+  height: 225px;
+  flex-direction: column;
+  align-items: flex-start;
+  gap: var(--gap-7xl);
+  font-size: var(--font-size-6xl);
+}
+.contact35,
+.footer11,
+.interno22 {
+  display: flex;
+  justify-content: flex-start;
+}
+.interno22 {
+  width: 1199px;
+  flex-direction: row;
+  align-items: flex-start;
+  gap: var(--gap-82xl);
+}
+.footer11 {
+  position: absolute;
+  top: 1968px;
+  left: 0;
+  width: 1920px;
+  flex-direction: column;
+  align-items: center;
+  font-size: var(--font-size-3xl);
+}
+.home23 {
+  position: relative;
+  line-height: 125%;
+  cursor: pointer;
+}
+.about-us28,
+.blog14 {
+  line-height: 125%;
+  white-space: pre-wrap;
+}
+.about-us28 {
+  position: relative;
+  cursor: pointer;
+}
+.blog14 {
+  position: absolute;
+  top: 0;
+  left: 0;
+}
+.menu22 {
+  width: 39px;
+  position: relative;
+  height: 25px;
+}
+.contact37 {
+  position: absolute;
+  top: 0;
+  left: 0;
+  line-height: 125%;
+  cursor: pointer;
+}
+.menu23 {
+  width: 64px;
+  position: relative;
+  height: 25px;
+}
+.header11,
+.menubar11 {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+}
+.menubar11 {
+  width: 517px;
+  justify-content: flex-end;
+  gap: var(--gap-12xl);
+  text-align: center;
+  font-size: var(--font-size-xl);
+  font-family: var(--font-jost);
+}
+.header11 {
+  position: absolute;
+  top: 44px;
+  left: 360px;
+  width: 1200px;
+  justify-content: flex-start;
+  gap: var(--gap-380xl);
+  font-size: var(--font-size-21xl);
+}
+.services-renovation-work {
+  width: 100%;
+  position: relative;
+  height: 2286px;
+  text-align: left;
+  font-size: var(--font-size-31xl);
+  color: var(--color-darkslategray);
+  font-family: var(--font-dm-serif-display);
+}

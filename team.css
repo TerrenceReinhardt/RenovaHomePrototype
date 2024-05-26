@@ -1,0 +1,458 @@
+.background10 {
+  background-color: var(--color-white);
+}
+.background10,
+.background9 {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 1920px;
+  height: 2325px;
+}
+.image-icon11 {
+  width: 283.5px;
+  position: relative;
+  height: 433px;
+  object-fit: cover;
+}
+.design-indonesia {
+  margin: 0;
+  font-size: var(--font-size-lg);
+  font-family: var(--font-jost);
+  color: var(--color-dimgray);
+}
+.john-smith-design-container1 {
+  width: 100%;
+}
+.john-smith-design-container {
+  position: absolute;
+  top: 0;
+  left: 0;
+  letter-spacing: 0.01em;
+  line-height: 150%;
+  display: flex;
+  align-items: center;
+  width: 227.2px;
+  height: 63.5px;
+  cursor: pointer;
+}
+.div59,
+.div60,
+.name6 {
+  width: 227.2px;
+  position: relative;
+  height: 63.5px;
+}
+.div59,
+.div60 {
+  width: 7.9px;
+  letter-spacing: 0.06em;
+  line-height: 120%;
+  text-transform: uppercase;
+  display: inline-block;
+  height: 21px;
+  flex-shrink: 0;
+}
+.div60 {
+  width: 11.8px;
+}
+.details1,
+.div58,
+.icon18 {
+  display: flex;
+  align-items: center;
+}
+.icon18 {
+  width: 56.7px;
+  flex-direction: row;
+  justify-content: center;
+  gap: var(--gap-18xl);
+  font-size: var(--font-size-lg);
+}
+.details1,
+.div58 {
+  width: 227.2px;
+  flex-direction: column;
+  justify-content: flex-start;
+  gap: var(--gap-base);
+}
+.div58 {
+  width: 283.5px;
+  gap: var(--gap-mid);
+}
+.nattasha-julie {
+  margin: 0;
+}
+.nattasha-julie-design-container {
+  position: absolute;
+  top: 0;
+  left: 0;
+  letter-spacing: 0.01em;
+  line-height: 150%;
+  display: flex;
+  align-items: center;
+  width: 227.2px;
+  height: 63.5px;
+}
+.div64 {
+  width: 10.5px;
+  position: relative;
+  letter-spacing: 0.06em;
+  line-height: 120%;
+  text-transform: uppercase;
+  display: inline-block;
+  height: 21px;
+  flex-shrink: 0;
+}
+.div61 {
+  width: 283.5px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: flex-start;
+  gap: var(--gap-mid);
+  font-size: var(--font-size-3xl);
+}
+.div57 {
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: center;
+  gap: var(--gap-3xl);
+}
+.div57,
+.div71,
+.team1 {
+  width: 1200.2px;
+  display: flex;
+}
+.div71 {
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: center;
+  gap: var(--gap-3xl);
+  font-size: var(--font-size-3xl);
+}
+.team1 {
+  position: absolute;
+  top: 695px;
+  left: 360px;
+  flex-direction: column;
+  align-items: center;
+  justify-content: flex-start;
+  gap: var(--gap-31xl);
+  text-align: center;
+}
+.images-icon5 {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 1920px;
+  height: 356px;
+  object-fit: cover;
+}
+.our-professional {
+  width: 367px;
+  position: relative;
+  line-height: 125%;
+}
+.home-team1,
+.intro5,
+.our-professional,
+.title3 {
+  display: flex;
+  align-items: center;
+}
+.home-team1 {
+  width: 131px;
+  position: relative;
+  font-size: var(--font-size-3xl);
+  letter-spacing: 0.01em;
+  line-height: 150%;
+  font-family: var(--font-jost);
+  color: var(--color-dimgray);
+  cursor: pointer;
+}
+.intro5,
+.title3 {
+  width: 367px;
+  flex-direction: column;
+  justify-content: flex-start;
+}
+.intro5 {
+  position: absolute;
+  top: 178px;
+  left: 708px;
+  border-radius: var(--br-18xl) var(--br-18xl) 0 0;
+  background-color: var(--color-white);
+  width: 503px;
+  justify-content: center;
+  padding: var(--padding-22xl) 68px;
+  box-sizing: border-box;
+}
+.banner5 {
+  position: absolute;
+  top: 139px;
+  left: 0;
+  width: 1920px;
+  height: 356px;
+  font-size: var(--font-size-31xl);
+}
+.renovahome10 {
+  position: absolute;
+  top: 0;
+  left: 44px;
+  line-height: 125%;
+}
+.logo-icon10 {
+  position: absolute;
+  height: 68%;
+  width: 12.23%;
+  top: 16%;
+  right: 87.77%;
+  bottom: 16%;
+  left: 0;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+}
+.logo10 {
+  width: 278px;
+  position: relative;
+  height: 50px;
+}
+.building-dreams-crafting5 {
+  width: 393px;
+  position: relative;
+  font-size: var(--font-size-3xl);
+  letter-spacing: 0.01em;
+  line-height: 150%;
+  font-family: var(--font-jost);
+  color: var(--color-dimgray);
+  display: flex;
+  align-items: center;
+}
+.sub-content20 {
+  width: 393px;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  gap: var(--gap-lg);
+}
+.div85,
+.div88 {
+  position: relative;
+  letter-spacing: 0.06em;
+  line-height: 120%;
+  text-transform: uppercase;
+}
+.div88 {
+  font-size: var(--font-size-lgi);
+}
+.icons5,
+.interno11 {
+  display: flex;
+  justify-content: flex-start;
+}
+.icons5 {
+  width: 225px;
+  flex-direction: row;
+  align-items: center;
+  gap: var(--gap-35xl);
+  text-align: center;
+  font-size: var(--font-size-lg);
+}
+.interno11 {
+  width: 393px;
+  flex-direction: column;
+  align-items: flex-start;
+  gap: var(--gap-12xl);
+  font-size: var(--font-size-21xl);
+}
+.utility5 {
+  position: relative;
+  font-size: var(--font-size-6xl);
+  line-height: 125%;
+  font-family: var(--font-dm-serif-display);
+  color: var(--color-darkslategray);
+}
+.about-us15,
+.home10 {
+  position: relative;
+  letter-spacing: 0.01em;
+  line-height: 300%;
+  align-items: center;
+  flex-shrink: 0;
+  cursor: pointer;
+}
+.home10 {
+  width: 125px;
+  display: flex;
+  height: 42px;
+}
+.about-us15 {
+  height: 36px;
+}
+.about-us15,
+.blogs5,
+.pages5 {
+  width: 125px;
+  display: flex;
+}
+.blogs5 {
+  position: relative;
+  letter-spacing: 0.01em;
+  line-height: 300%;
+  align-items: center;
+  height: 37px;
+  flex-shrink: 0;
+  cursor: pointer;
+}
+.pages5 {
+  height: 279px;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  color: var(--color-dimgray);
+  font-family: var(--font-jost);
+}
+.project-plan6 {
+  position: relative;
+  letter-spacing: 0.01em;
+  line-height: 300%;
+  cursor: pointer;
+}
+.services19 {
+  width: 120px;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  color: var(--color-dimgray);
+  font-family: var(--font-jost);
+}
+.contact18 {
+  width: 87px;
+  position: relative;
+  line-height: 125%;
+  display: flex;
+  align-items: center;
+}
+.jakarta-indonesia-renovahome11 {
+  line-height: 150%;
+}
+.com5,
+.p5 {
+  line-height: 300%;
+}
+.p5 {
+  margin: 0;
+}
+.jakarta-indonesia-renovahome-container10 {
+  width: 258px;
+  position: relative;
+  font-size: var(--font-size-3xl);
+  letter-spacing: 0.01em;
+  font-family: var(--font-jost);
+  color: var(--color-dimgray);
+  display: flex;
+  align-items: center;
+}
+.contact17 {
+  width: 258px;
+  height: 225px;
+  flex-direction: column;
+  align-items: flex-start;
+  gap: var(--gap-7xl);
+  font-size: var(--font-size-6xl);
+}
+.contact17,
+.footer5,
+.interno10 {
+  display: flex;
+  justify-content: flex-start;
+}
+.interno10 {
+  width: 1199px;
+  flex-direction: row;
+  align-items: flex-start;
+  gap: var(--gap-82xl);
+}
+.footer5 {
+  position: absolute;
+  top: 1929px;
+  left: 0;
+  width: 1920px;
+  flex-direction: column;
+  align-items: center;
+  font-size: var(--font-size-3xl);
+}
+.home11 {
+  position: relative;
+  line-height: 125%;
+  cursor: pointer;
+}
+.about-us16,
+.blog5 {
+  line-height: 125%;
+  white-space: pre-wrap;
+}
+.about-us16 {
+  position: relative;
+  cursor: pointer;
+}
+.blog5 {
+  position: absolute;
+  top: 0;
+  left: 0;
+}
+.menu10 {
+  width: 39px;
+  position: relative;
+  height: 25px;
+  cursor: pointer;
+}
+.contact19 {
+  position: absolute;
+  top: 0;
+  left: 0;
+  line-height: 125%;
+}
+.menu11 {
+  width: 64px;
+  position: relative;
+  height: 25px;
+  cursor: pointer;
+}
+.header5,
+.menubar5 {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+}
+.menubar5 {
+  width: 517px;
+  justify-content: flex-end;
+  gap: var(--gap-12xl);
+  text-align: center;
+  font-size: var(--font-size-xl);
+  font-family: var(--font-jost);
+}
+.header5 {
+  position: absolute;
+  top: 49px;
+  left: 359px;
+  width: 1200px;
+  justify-content: flex-start;
+  gap: var(--gap-380xl);
+  font-size: var(--font-size-21xl);
+}
+.team {
+  width: 100%;
+  position: relative;
+  height: 2325px;
+  text-align: left;
+  font-size: var(--font-size-6xl);
+  color: var(--color-darkslategray);
+  font-family: var(--font-dm-serif-display);
+}

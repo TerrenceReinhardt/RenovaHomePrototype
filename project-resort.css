@@ -1,0 +1,558 @@
+.background29 {
+  background-color: var(--color-white);
+  width: 1920px;
+  height: 4488px;
+}
+.background28,
+.background29,
+.houses2 {
+  position: absolute;
+  top: 0;
+  left: 0;
+}
+.background28 {
+  width: 1920px;
+  height: 4488px;
+}
+.houses2 {
+  letter-spacing: 0.02em;
+  line-height: 125%;
+  font-weight: 600;
+}
+.bathroom2 {
+  width: 62px;
+  position: relative;
+  height: 23px;
+  cursor: pointer;
+}
+.apartments-wrapper {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 97px;
+  height: 23px;
+}
+.kitchan3 {
+  width: 97px;
+  position: relative;
+  height: 23px;
+  cursor: pointer;
+}
+.resort2 {
+  position: relative;
+  letter-spacing: 0.02em;
+  line-height: 125%;
+  font-weight: 600;
+}
+.bed-room2 {
+  border-radius: var(--br-lg);
+  background-color: var(--color-burlywood);
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: center;
+  padding: var(--padding-7xl) var(--padding-47xl);
+  color: var(--color-white);
+}
+.villa-frame {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 38px;
+  height: 23px;
+}
+.living2 {
+  width: 38px;
+  position: relative;
+  height: 23px;
+  cursor: pointer;
+}
+.categories4,
+.content36 {
+  width: 880px;
+  display: flex;
+  align-items: center;
+}
+.content36 {
+  flex-direction: row;
+  justify-content: center;
+  gap: var(--gap-77xl);
+}
+.categories4 {
+  border-radius: var(--br-lg);
+  border: 1px solid var(--color-burlywood);
+  box-sizing: border-box;
+  flex-direction: column;
+  justify-content: flex-start;
+}
+.image-icon46 {
+  width: 585px;
+  position: relative;
+  height: 522px;
+  object-fit: cover;
+}
+.div180,
+.grand-yale {
+  position: relative;
+  letter-spacing: 0.02em;
+  line-height: 125%;
+}
+.div180 {
+  width: 217px;
+  font-size: var(--font-size-3xl);
+  letter-spacing: 0.01em;
+  line-height: 150%;
+  font-family: var(--font-jost);
+  color: var(--color-dimgray);
+  display: flex;
+  align-items: center;
+  height: 27px;
+  flex-shrink: 0;
+}
+.div179,
+.div181,
+.text13 {
+  width: 585px;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: flex-start;
+}
+.div179,
+.div181 {
+  position: absolute;
+  top: 2283px;
+  left: 615px;
+  flex-direction: column;
+  align-items: flex-start;
+  gap: var(--gap-5xl);
+}
+.div181 {
+  top: 2614px;
+  left: 0;
+}
+.image-icon48 {
+  width: 586px;
+  position: relative;
+  height: 522px;
+  object-fit: cover;
+}
+.div183 {
+  position: absolute;
+  top: 1632px;
+  left: 615px;
+  width: 586px;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  gap: var(--gap-5xl);
+}
+.image-icon49 {
+  width: 585px;
+  position: relative;
+  height: 853px;
+  object-fit: cover;
+}
+.div185,
+.serence-cove-parent {
+  width: 217px;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  gap: var(--gap-9xs);
+}
+.div185 {
+  position: absolute;
+  top: 1632px;
+  left: 0;
+  width: 585px;
+  gap: var(--gap-5xl);
+}
+.image-icon50 {
+  width: 586px;
+  position: relative;
+  height: 853px;
+  object-fit: cover;
+}
+.div187,
+.div189,
+.div191,
+.div193,
+.sub-content62 {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+.div187 {
+  position: absolute;
+  top: 649px;
+  left: 615px;
+  width: 586px;
+  gap: var(--gap-5xl);
+}
+.div189,
+.div191,
+.div193,
+.sub-content62 {
+  width: 290px;
+  gap: var(--gap-9xs);
+}
+.div189,
+.div191,
+.div193 {
+  position: absolute;
+  top: 982px;
+  left: 1px;
+  width: 585px;
+  gap: var(--gap-3xl);
+}
+.div191,
+.div193 {
+  top: 0;
+  left: 615px;
+  width: 586px;
+  gap: var(--gap-5xl);
+}
+.div193 {
+  left: 0;
+  width: 585px;
+}
+.project18 {
+  width: 1201px;
+  position: relative;
+  height: 3222px;
+  text-align: left;
+  font-size: var(--font-size-6xl);
+  font-family: var(--font-dm-serif-display);
+}
+.projects16 {
+  position: absolute;
+  top: 695px;
+  left: 360px;
+  width: 1201px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: flex-start;
+  gap: var(--gap-42xl);
+  text-align: center;
+  font-family: var(--font-jost);
+}
+.image-icon54 {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 1920px;
+  height: 356px;
+  object-fit: contain;
+}
+.home-project2,
+.our-project2 {
+  position: relative;
+  line-height: 125%;
+}
+.home-project2 {
+  font-size: var(--font-size-3xl);
+  letter-spacing: 0.01em;
+  line-height: 150%;
+  font-family: var(--font-jost);
+  color: var(--color-dimgray);
+}
+.intro14,
+.title13 {
+  width: 254px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: flex-start;
+}
+.intro14 {
+  position: absolute;
+  top: 178px;
+  left: 708px;
+  border-radius: var(--br-18xl) var(--br-18xl) 0 0;
+  background-color: var(--color-white);
+  width: 504px;
+  justify-content: center;
+  padding: var(--padding-22xl) var(--padding-106xl);
+  box-sizing: border-box;
+}
+.banner14 {
+  position: absolute;
+  top: 139px;
+  left: 0;
+  width: 1920px;
+  height: 356px;
+  font-size: var(--font-size-31xl);
+}
+.renovahome28 {
+  position: absolute;
+  top: 0;
+  left: 44px;
+  line-height: 125%;
+}
+.logo-icon28 {
+  position: absolute;
+  height: 68%;
+  width: 12.23%;
+  top: 16%;
+  right: 87.77%;
+  bottom: 16%;
+  left: 0;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+}
+.home28,
+.logo28 {
+  position: relative;
+}
+.logo28 {
+  width: 278px;
+  height: 50px;
+}
+.home28 {
+  line-height: 125%;
+}
+.about-us33,
+.home28 {
+  cursor: pointer;
+}
+.about-us33,
+.blog17,
+.project19 {
+  position: relative;
+  line-height: 125%;
+  white-space: pre-wrap;
+}
+.blog17 {
+  position: absolute;
+  top: 0;
+  left: 0;
+}
+.menu28 {
+  width: 39px;
+  position: relative;
+  height: 25px;
+  cursor: pointer;
+}
+.contact44 {
+  position: absolute;
+  top: 0;
+  left: 0;
+  line-height: 125%;
+  cursor: pointer;
+}
+.menu29 {
+  width: 64px;
+  position: relative;
+  height: 25px;
+}
+.header14,
+.menubar14 {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+}
+.menubar14 {
+  width: 517px;
+  justify-content: flex-end;
+  gap: var(--gap-12xl);
+  text-align: center;
+  font-size: var(--font-size-xl);
+  font-family: var(--font-jost);
+}
+.header14 {
+  position: absolute;
+  top: 44px;
+  left: 360px;
+  width: 1200px;
+  justify-content: flex-start;
+  gap: var(--gap-380xl);
+  font-size: var(--font-size-21xl);
+}
+.building-dreams-crafting14 {
+  width: 393px;
+  position: relative;
+  font-size: var(--font-size-3xl);
+  letter-spacing: 0.01em;
+  line-height: 150%;
+  font-family: var(--font-jost);
+  color: var(--color-dimgray);
+  display: flex;
+  align-items: center;
+}
+.sub-content64 {
+  width: 393px;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  gap: var(--gap-lg);
+}
+.div195,
+.div198 {
+  position: relative;
+  letter-spacing: 0.06em;
+  line-height: 120%;
+  text-transform: uppercase;
+}
+.div198 {
+  font-size: var(--font-size-lgi);
+}
+.icons14,
+.interno29 {
+  display: flex;
+  justify-content: flex-start;
+}
+.icons14 {
+  width: 225px;
+  flex-direction: row;
+  align-items: center;
+  gap: var(--gap-35xl);
+  text-align: center;
+  font-size: var(--font-size-lg);
+}
+.interno29 {
+  width: 393px;
+  flex-direction: column;
+  align-items: flex-start;
+  gap: var(--gap-12xl);
+  font-size: var(--font-size-21xl);
+}
+.utility14 {
+  position: relative;
+  font-size: var(--font-size-6xl);
+  line-height: 125%;
+  font-family: var(--font-dm-serif-display);
+  color: var(--color-darkslategray);
+}
+.about-us34,
+.home29 {
+  position: relative;
+  letter-spacing: 0.01em;
+  line-height: 300%;
+  align-items: center;
+  flex-shrink: 0;
+  cursor: pointer;
+}
+.home29 {
+  width: 125px;
+  display: flex;
+  height: 42px;
+}
+.about-us34 {
+  height: 36px;
+}
+.about-us34,
+.blogs14,
+.pages14 {
+  width: 125px;
+  display: flex;
+}
+.blogs14 {
+  position: relative;
+  letter-spacing: 0.01em;
+  line-height: 300%;
+  align-items: center;
+  height: 37px;
+  flex-shrink: 0;
+  cursor: pointer;
+}
+.pages14 {
+  height: 279px;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  color: var(--color-dimgray);
+  font-family: var(--font-jost);
+}
+.project-plan16 {
+  position: relative;
+  letter-spacing: 0.01em;
+  line-height: 300%;
+  cursor: pointer;
+}
+.services50 {
+  width: 120px;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  color: var(--color-dimgray);
+  font-family: var(--font-jost);
+}
+.contact46 {
+  width: 87px;
+  position: relative;
+  line-height: 125%;
+  display: flex;
+  align-items: center;
+}
+.jakarta-indonesia-renovahome29 {
+  line-height: 150%;
+}
+.com14 {
+  line-height: 300%;
+}
+.jakarta-indonesia-renovahome28,
+.p17 {
+  margin: 0;
+}
+.p17 {
+  line-height: 300%;
+}
+.jakarta-indonesia-renovahome-container29 {
+  width: 100%;
+}
+.jakarta-indonesia-renovahome-container28 {
+  width: 258px;
+  position: relative;
+  font-size: var(--font-size-3xl);
+  letter-spacing: 0.01em;
+  font-family: var(--font-jost);
+  color: var(--color-dimgray);
+  display: flex;
+  align-items: center;
+}
+.contact45 {
+  width: 258px;
+  height: 225px;
+  flex-direction: column;
+  align-items: flex-start;
+  gap: var(--gap-7xl);
+  font-size: var(--font-size-6xl);
+}
+.contact45,
+.footer14,
+.interno28 {
+  display: flex;
+  justify-content: flex-start;
+}
+.interno28 {
+  width: 1199px;
+  flex-direction: row;
+  align-items: flex-start;
+  gap: var(--gap-82xl);
+}
+.footer14 {
+  position: absolute;
+  top: 4209px;
+  left: 0;
+  width: 1920px;
+  flex-direction: column;
+  align-items: center;
+  font-size: var(--font-size-3xl);
+}
+.project-resort {
+  width: 100%;
+  position: relative;
+  height: 4488px;
+  text-align: left;
+  font-size: var(--font-size-lg);
+  color: var(--color-darkslategray);
+  font-family: var(--font-dm-serif-display);
+}

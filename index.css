@@ -1,0 +1,723 @@
+.background {
+  position: absolute;
+  top: -9px;
+  left: 0;
+  background-color: var(--color-white);
+  width: 1771px;
+  height: 5128px;
+}
+.want-to-know {
+  width: 569px;
+  position: relative;
+  line-height: 125%;
+  display: inline-block;
+}
+.ready-to-turn,
+.sub-title {
+  display: flex;
+  align-items: center;
+}
+.ready-to-turn {
+  width: 452px;
+  position: relative;
+  font-size: var(--font-size-3xl);
+  letter-spacing: 0.01em;
+  line-height: 150%;
+  font-family: var(--font-jost);
+  justify-content: center;
+}
+.sub-title {
+  width: 569px;
+  flex-direction: column;
+  justify-content: flex-start;
+  gap: var(--gap-2xs);
+}
+.meet-our-team {
+  position: relative;
+  letter-spacing: 0.02em;
+  line-height: 125%;
+  font-weight: 600;
+}
+.vector-icon {
+  width: 15.1px;
+  position: relative;
+  height: 13.2px;
+}
+.button,
+.contact1 {
+  justify-content: center;
+}
+.contact1 {
+  width: 163.1px;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  gap: var(--gap-2xs);
+}
+.button {
+  box-shadow: 0 10px 20px #1f2022;
+  border-radius: var(--br-lg);
+  background-color: var(--color-burlywood);
+  padding: var(--padding-7xl) 37px;
+  cursor: pointer;
+  font-size: var(--font-size-lg);
+  font-family: var(--font-jost);
+}
+.button,
+.contact,
+.content {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+.content {
+  width: 569px;
+  justify-content: flex-start;
+  gap: var(--gap-13xl);
+}
+.contact {
+  position: absolute;
+  top: 4200px;
+  left: 351px;
+  border-radius: var(--br-51xl);
+  background-color: var(--color-darkslategray);
+  width: 1199px;
+  justify-content: center;
+  padding: 80px 315px;
+  box-sizing: border-box;
+  text-align: center;
+  color: var(--color-white);
+}
+.follow-our-projects {
+  position: relative;
+  letter-spacing: 0.02em;
+  line-height: 125%;
+}
+.heading,
+.stay-inspired-with {
+  width: 737px;
+  display: flex;
+  align-items: center;
+}
+.stay-inspired-with {
+  position: relative;
+  font-size: var(--font-size-3xl);
+  letter-spacing: 0.01em;
+  line-height: 150%;
+  font-family: var(--font-jost);
+  color: var(--color-dimgray);
+  justify-content: center;
+}
+.heading {
+  flex-direction: column;
+  justify-content: flex-start;
+  gap: 8px;
+}
+.icon,
+.icon1 {
+  width: 548px;
+  height: 619px;
+  object-fit: contain;
+}
+.icon1 {
+  width: 549px;
+}
+.div {
+  width: 1201px;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: center;
+  gap: 104px;
+}
+.icon2,
+.icon3 {
+  width: 552px;
+  height: 636px;
+  object-fit: contain;
+}
+.icon3 {
+  width: 550px;
+  height: 635px;
+}
+.div1,
+.project,
+.project1 {
+  width: 1201px;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: center;
+  gap: 99px;
+}
+.project,
+.project1 {
+  flex-direction: column;
+  align-items: center;
+  justify-content: flex-start;
+  gap: 56px;
+}
+.project {
+  position: absolute;
+  top: 2527px;
+  left: 359px;
+  gap: 93px;
+  text-align: center;
+}
+.background-icon {
+  position: absolute;
+  top: 0;
+  left: 0;
+  border-radius: var(--br-51xl);
+  width: 1199px;
+  height: 679px;
+}
+.what-the-people {
+  margin: 0;
+}
+.background-icon1,
+.image-icon {
+  width: 370px;
+  position: relative;
+  height: 339px;
+}
+.image-icon {
+  width: 77px;
+  height: 77px;
+  object-fit: cover;
+}
+.jakarta-indonesia {
+  margin: 0;
+  font-size: var(--font-size-lg);
+  font-family: var(--font-jost);
+  color: var(--color-dimgray);
+}
+.sheila-marvina-jakarta-container {
+  position: relative;
+  letter-spacing: 0.01em;
+  line-height: 150%;
+}
+.i-couldnt-be,
+.person {
+  display: flex;
+  align-items: center;
+}
+.person {
+  width: 257px;
+  flex-direction: row;
+  justify-content: flex-start;
+  gap: var(--gap-4xl);
+}
+.i-couldnt-be {
+  width: 296px;
+  position: relative;
+  font-size: var(--font-size-3xl);
+  letter-spacing: 0.01em;
+  line-height: 150%;
+  font-family: var(--font-jost);
+  color: var(--color-dimgray);
+  height: 170px;
+  flex-shrink: 0;
+}
+.content2,
+.div2 {
+  display: flex;
+  flex-direction: column;
+  justify-content: flex-start;
+}
+.content2 {
+  width: 296px;
+  height: 286px;
+  align-items: flex-start;
+  padding: 0 0 var(--padding-35xl);
+  box-sizing: border-box;
+  gap: var(--gap-2xs);
+  margin-top: -626px;
+}
+.div2 {
+  width: 370px;
+  align-items: center;
+  font-size: var(--font-size-6xl);
+}
+.jakarta-indonesia1 {
+  margin: 0;
+  font-size: var(--font-size-lg);
+  font-family: var(--font-jost);
+}
+.renovahome-expertise-and {
+  width: 296px;
+  position: relative;
+  letter-spacing: 0.01em;
+  line-height: 150%;
+  font-family: var(--font-jost);
+  color: var(--color-dimgray);
+  white-space: pre-wrap;
+  display: flex;
+  align-items: center;
+}
+.div3 {
+  width: 370px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: flex-start;
+}
+.choosing-renovahome-for {
+  width: 296px;
+  position: relative;
+  letter-spacing: 0.01em;
+  line-height: 150%;
+  font-family: var(--font-jost);
+  color: var(--color-dimgray);
+  display: flex;
+  align-items: center;
+}
+.content4 {
+  width: 296px;
+  height: 286px;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: 0 0 var(--padding-35xl);
+  box-sizing: border-box;
+  gap: 25px;
+  margin-top: -626px;
+}
+.content1,
+.testimonial1 {
+  width: 1150px;
+  display: flex;
+}
+.testimonial1 {
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: center;
+  gap: var(--gap-xl);
+  text-align: left;
+  font-size: var(--font-size-3xl);
+}
+.content1 {
+  position: absolute;
+  top: 88px;
+  left: 24px;
+  flex-direction: column;
+  align-items: center;
+  justify-content: flex-start;
+  gap: 38px;
+}
+.testimonial {
+  position: absolute;
+  top: 1785px;
+  left: 360px;
+  width: 1199px;
+  height: 679px;
+  text-align: center;
+}
+.elevate-your-renovation,
+.premium-plan {
+  width: 420px;
+  position: relative;
+  letter-spacing: 0.02em;
+  line-height: 125%;
+  display: flex;
+  align-items: center;
+}
+.elevate-your-renovation {
+  width: 472px;
+  font-size: var(--font-size-3xl);
+  letter-spacing: 0.01em;
+  line-height: 150%;
+  font-family: var(--font-jost);
+  color: var(--color-dimgray);
+}
+.sub-content {
+  width: 472px;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  gap: var(--gap-14xl);
+}
+.get-free-estimate {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: center;
+  gap: var(--gap-3xs);
+}
+.button1,
+.button2,
+.content5 {
+  display: flex;
+  flex-direction: column;
+}
+.button2 {
+  box-shadow: 0 10px 20px rgba(192, 192, 192, 0.35);
+  border-radius: var(--br-lg);
+  background-color: var(--color-darkslategray);
+  align-items: center;
+  justify-content: center;
+  padding: var(--padding-7xl) 31px;
+}
+.button1,
+.content5 {
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+.button1 {
+  width: 172px;
+  cursor: pointer;
+  text-align: center;
+  font-size: var(--font-size-lg);
+  color: var(--color-white);
+  font-family: var(--font-jost);
+}
+.content5 {
+  width: 472px;
+  gap: var(--gap-26xl);
+}
+.image-icon3 {
+  width: 653px;
+  position: relative;
+  height: 700px;
+  object-fit: cover;
+}
+.about-us1 {
+  position: absolute;
+  top: 997px;
+  left: 360px;
+  width: 1200px;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: center;
+  gap: 75px;
+}
+.images-icon {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 1201px;
+  height: 758px;
+  object-fit: cover;
+}
+.let-your-home-container {
+  position: relative;
+  line-height: 125%;
+}
+.revitalize-your-space-container1 {
+  width: 100%;
+}
+.revitalize-your-space-container {
+  width: 433px;
+  position: relative;
+  font-size: var(--font-size-3xl);
+  letter-spacing: 0.01em;
+  line-height: 150%;
+  font-family: var(--font-jost);
+  color: var(--color-dimgray);
+  display: flex;
+  align-items: center;
+}
+.button3,
+.sub-content1 {
+  display: flex;
+  flex-direction: column;
+}
+.sub-content1 {
+  width: 434px;
+  align-items: flex-start;
+  justify-content: flex-start;
+  gap: var(--gap-lg);
+}
+.button3 {
+  box-shadow: 0 10px 20px rgba(192, 192, 192, 0.35);
+  border-radius: var(--br-lg);
+  background-color: var(--color-darkslategray);
+  align-items: center;
+  justify-content: center;
+  padding: var(--padding-7xl) 49px var(--padding-7xl) var(--padding-29xl);
+  cursor: pointer;
+  text-align: center;
+  font-size: var(--font-size-lg);
+  color: var(--color-white);
+  font-family: var(--font-jost);
+}
+.banner,
+.intro {
+  position: absolute;
+}
+.intro {
+  top: 208px;
+  left: 52px;
+  width: 434px;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  gap: var(--gap-2xl);
+}
+.banner {
+  top: 151px;
+  left: 360px;
+  width: 1201px;
+  height: 758px;
+  font-size: 65px;
+}
+.renovahome {
+  position: absolute;
+  top: 0;
+  left: 44px;
+  line-height: 125%;
+}
+.logo-icon {
+  position: absolute;
+  height: 68%;
+  width: 12.23%;
+  top: 16%;
+  right: 87.77%;
+  bottom: 16%;
+  left: 0;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+}
+.logo {
+  width: 278px;
+  position: relative;
+  height: 50px;
+}
+.about-us2 {
+  white-space: pre-wrap;
+}
+.about-us2,
+.services {
+  position: relative;
+  line-height: 125%;
+  cursor: pointer;
+}
+.blog {
+  position: absolute;
+  top: 0;
+  left: 0;
+  line-height: 125%;
+  white-space: pre-wrap;
+}
+.menu {
+  width: 39px;
+  position: relative;
+  height: 25px;
+  cursor: pointer;
+}
+.contact2 {
+  position: absolute;
+  top: 0;
+  left: 0;
+  line-height: 125%;
+  cursor: pointer;
+}
+.menu1 {
+  width: 64px;
+  position: relative;
+  height: 25px;
+}
+.header,
+.menubar {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+}
+.menubar {
+  width: 517px;
+  justify-content: flex-end;
+  gap: var(--gap-12xl);
+  text-align: center;
+  font-size: var(--font-size-xl);
+  font-family: var(--font-jost);
+}
+.header {
+  position: absolute;
+  top: 44px;
+  left: 360px;
+  width: 1200px;
+  justify-content: flex-start;
+  gap: var(--gap-380xl);
+  font-size: var(--font-size-21xl);
+}
+.building-dreams-crafting {
+  width: 393px;
+  position: relative;
+  font-size: var(--font-size-3xl);
+  letter-spacing: 0.01em;
+  line-height: 150%;
+  font-family: var(--font-jost);
+  color: var(--color-dimgray);
+  display: flex;
+  align-items: center;
+}
+.sub-content2 {
+  width: 393px;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  gap: var(--gap-lg);
+}
+.div5,
+.div8 {
+  position: relative;
+  letter-spacing: 0.06em;
+  line-height: 120%;
+  text-transform: uppercase;
+}
+.div8 {
+  font-size: var(--font-size-lgi);
+}
+.icons,
+.interno1 {
+  display: flex;
+  justify-content: flex-start;
+}
+.icons {
+  width: 225px;
+  flex-direction: row;
+  align-items: center;
+  gap: var(--gap-35xl);
+  text-align: center;
+  font-size: var(--font-size-lg);
+}
+.interno1 {
+  width: 393px;
+  flex-direction: column;
+  align-items: flex-start;
+  gap: var(--gap-12xl);
+  font-size: var(--font-size-21xl);
+}
+.utility {
+  position: relative;
+  font-size: var(--font-size-6xl);
+  line-height: 125%;
+  font-family: var(--font-dm-serif-display);
+  color: var(--color-darkslategray);
+}
+.about-us3,
+.projects {
+  position: relative;
+  letter-spacing: 0.01em;
+  line-height: 300%;
+  align-items: center;
+  flex-shrink: 0;
+  cursor: pointer;
+}
+.about-us3 {
+  width: 125px;
+  display: flex;
+  height: 36px;
+}
+.projects {
+  height: 42px;
+}
+.blogs,
+.pages,
+.projects {
+  width: 125px;
+  display: flex;
+}
+.blogs {
+  position: relative;
+  letter-spacing: 0.01em;
+  line-height: 300%;
+  align-items: center;
+  height: 37px;
+  flex-shrink: 0;
+  cursor: pointer;
+}
+.pages {
+  height: 279px;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  color: var(--color-dimgray);
+  font-family: var(--font-jost);
+}
+.project-plan {
+  position: relative;
+  letter-spacing: 0.01em;
+  line-height: 300%;
+  cursor: pointer;
+}
+.services1 {
+  width: 120px;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  color: var(--color-dimgray);
+  font-family: var(--font-jost);
+}
+.contact4 {
+  width: 87px;
+  position: relative;
+  line-height: 125%;
+  display: flex;
+  align-items: center;
+}
+.jakarta-indonesia-renovahome1 {
+  line-height: 150%;
+}
+.com,
+.p {
+  line-height: 300%;
+}
+.p {
+  margin: 0;
+}
+.jakarta-indonesia-renovahome-container {
+  width: 258px;
+  position: relative;
+  font-size: var(--font-size-3xl);
+  letter-spacing: 0.01em;
+  font-family: var(--font-jost);
+  color: var(--color-dimgray);
+  display: flex;
+  align-items: center;
+}
+.contact3 {
+  width: 258px;
+  height: 225px;
+  flex-direction: column;
+  align-items: flex-start;
+  gap: var(--gap-7xl);
+  font-size: var(--font-size-6xl);
+}
+.contact3,
+.footer,
+.interno {
+  display: flex;
+  justify-content: flex-start;
+}
+.interno {
+  width: 1199px;
+  flex-direction: row;
+  align-items: flex-start;
+  gap: var(--gap-82xl);
+}
+.footer {
+  position: absolute;
+  top: 4783px;
+  left: 0;
+  width: 1920px;
+  flex-direction: column;
+  align-items: center;
+  font-size: var(--font-size-3xl);
+}
+.homepage {
+  width: 100%;
+  position: relative;
+  height: 5119px;
+  text-align: left;
+  font-size: var(--font-size-31xl);
+  color: var(--color-darkslategray);
+  font-family: var(--font-dm-serif-display);
+}

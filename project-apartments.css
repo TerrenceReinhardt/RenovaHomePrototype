@@ -1,0 +1,558 @@
+.background16 {
+  background-color: var(--color-white);
+  width: 1920px;
+  height: 4488px;
+}
+.background15,
+.background16,
+.houses {
+  position: absolute;
+  top: 0;
+  left: 0;
+}
+.background15 {
+  width: 1920px;
+  height: 4488px;
+}
+.houses {
+  letter-spacing: 0.02em;
+  line-height: 125%;
+  font-weight: 600;
+}
+.bathroom {
+  width: 62px;
+  position: relative;
+  height: 23px;
+  cursor: pointer;
+}
+.apartments {
+  position: relative;
+  letter-spacing: 0.02em;
+  line-height: 125%;
+  font-weight: 600;
+}
+.bed-room {
+  border-radius: var(--br-lg);
+  background-color: var(--color-burlywood);
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: center;
+  padding: var(--padding-7xl) var(--padding-47xl);
+  color: var(--color-white);
+}
+.resort-wrapper {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 54px;
+  height: 23px;
+}
+.kitchan1 {
+  width: 54px;
+  position: relative;
+  height: 23px;
+  cursor: pointer;
+}
+.villa-wrapper {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 38px;
+  height: 23px;
+}
+.living {
+  width: 38px;
+  position: relative;
+  height: 23px;
+  cursor: pointer;
+}
+.categories2,
+.content24 {
+  width: 880px;
+  display: flex;
+  align-items: center;
+}
+.content24 {
+  flex-direction: row;
+  justify-content: center;
+  gap: var(--gap-77xl);
+}
+.categories2 {
+  border-radius: var(--br-lg);
+  border: 1px solid var(--color-burlywood);
+  box-sizing: border-box;
+  flex-direction: column;
+  justify-content: flex-start;
+}
+.image-icon24 {
+  width: 585px;
+  position: relative;
+  height: 522px;
+  object-fit: cover;
+}
+.div121,
+.livingroom {
+  position: relative;
+  letter-spacing: 0.02em;
+  line-height: 125%;
+}
+.div121 {
+  width: 217px;
+  font-size: var(--font-size-3xl);
+  letter-spacing: 0.01em;
+  line-height: 150%;
+  font-family: var(--font-jost);
+  color: var(--color-dimgray);
+  display: flex;
+  align-items: center;
+  height: 27px;
+  flex-shrink: 0;
+}
+.div120,
+.div122,
+.text1 {
+  width: 585px;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: flex-start;
+}
+.div120,
+.div122 {
+  position: absolute;
+  top: 2283px;
+  left: 615px;
+  flex-direction: column;
+  align-items: flex-start;
+  gap: var(--gap-5xl);
+}
+.div122 {
+  top: 2614px;
+  left: 0;
+}
+.image-icon26 {
+  width: 586px;
+  position: relative;
+  height: 522px;
+  object-fit: cover;
+}
+.div124 {
+  position: absolute;
+  top: 1632px;
+  left: 615px;
+  width: 586px;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  gap: var(--gap-5xl);
+}
+.image-icon27 {
+  width: 585px;
+  position: relative;
+  height: 853px;
+  object-fit: cover;
+}
+.div126,
+.livingroom-parent {
+  width: 217px;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  gap: var(--gap-9xs);
+}
+.div126 {
+  position: absolute;
+  top: 1632px;
+  left: 0;
+  width: 585px;
+  gap: var(--gap-5xl);
+}
+.image-icon28 {
+  width: 586px;
+  position: relative;
+  height: 853px;
+  object-fit: cover;
+}
+.div128 {
+  position: absolute;
+  top: 649px;
+  left: 615px;
+  width: 586px;
+  gap: var(--gap-5xl);
+}
+.div128,
+.div130,
+.div132,
+.div134,
+.sub-content35 {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+.sub-content35 {
+  width: 290px;
+  gap: var(--gap-9xs);
+}
+.div130,
+.div132,
+.div134 {
+  position: absolute;
+}
+.div130 {
+  top: 982px;
+  left: 1px;
+  width: 585px;
+  gap: var(--gap-3xl);
+}
+.div132,
+.div134 {
+  top: 0;
+  gap: var(--gap-5xl);
+}
+.div132 {
+  left: 615px;
+  width: 586px;
+}
+.div134 {
+  left: 0;
+}
+.project10 {
+  width: 1201px;
+  position: relative;
+  height: 3222px;
+  text-align: left;
+  font-size: var(--font-size-6xl);
+  font-family: var(--font-dm-serif-display);
+}
+.projects8 {
+  position: absolute;
+  top: 695px;
+  left: 360px;
+  width: 1201px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: flex-start;
+  gap: var(--gap-42xl);
+  text-align: center;
+  font-family: var(--font-jost);
+}
+.image-icon32 {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 1920px;
+  height: 356px;
+  object-fit: contain;
+}
+.home-project,
+.our-project {
+  position: relative;
+  line-height: 125%;
+}
+.home-project {
+  font-size: var(--font-size-3xl);
+  letter-spacing: 0.01em;
+  line-height: 150%;
+  font-family: var(--font-jost);
+  color: var(--color-dimgray);
+}
+.intro8,
+.title7 {
+  width: 254px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: flex-start;
+}
+.intro8 {
+  position: absolute;
+  top: 178px;
+  left: 708px;
+  border-radius: var(--br-18xl) var(--br-18xl) 0 0;
+  background-color: var(--color-white);
+  width: 504px;
+  justify-content: center;
+  padding: var(--padding-22xl) var(--padding-106xl);
+  box-sizing: border-box;
+}
+.banner8 {
+  position: absolute;
+  top: 139px;
+  left: 0;
+  width: 1920px;
+  height: 356px;
+  font-size: var(--font-size-31xl);
+}
+.renovahome16 {
+  position: absolute;
+  top: 0;
+  left: 44px;
+  line-height: 125%;
+}
+.logo-icon16 {
+  position: absolute;
+  height: 68%;
+  width: 12.23%;
+  top: 16%;
+  right: 87.77%;
+  bottom: 16%;
+  left: 0;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+}
+.home16,
+.logo16 {
+  position: relative;
+}
+.logo16 {
+  width: 278px;
+  height: 50px;
+}
+.home16 {
+  line-height: 125%;
+}
+.about-us21,
+.home16 {
+  cursor: pointer;
+}
+.about-us21,
+.blog11,
+.project11 {
+  position: relative;
+  line-height: 125%;
+  white-space: pre-wrap;
+}
+.blog11 {
+  position: absolute;
+  top: 0;
+  left: 0;
+}
+.menu16 {
+  width: 39px;
+  position: relative;
+  height: 25px;
+  cursor: pointer;
+}
+.contact26 {
+  position: absolute;
+  top: 0;
+  left: 0;
+  line-height: 125%;
+  cursor: pointer;
+}
+.menu17 {
+  width: 64px;
+  position: relative;
+  height: 25px;
+}
+.header8,
+.menubar8 {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+}
+.menubar8 {
+  width: 517px;
+  justify-content: flex-end;
+  gap: var(--gap-12xl);
+  text-align: center;
+  font-size: var(--font-size-xl);
+  font-family: var(--font-jost);
+}
+.header8 {
+  position: absolute;
+  top: 44px;
+  left: 360px;
+  width: 1200px;
+  justify-content: flex-start;
+  gap: var(--gap-380xl);
+  font-size: var(--font-size-21xl);
+}
+.building-dreams-crafting8 {
+  width: 393px;
+  position: relative;
+  font-size: var(--font-size-3xl);
+  letter-spacing: 0.01em;
+  line-height: 150%;
+  font-family: var(--font-jost);
+  color: var(--color-dimgray);
+  display: flex;
+  align-items: center;
+}
+.sub-content37 {
+  width: 393px;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  gap: var(--gap-lg);
+}
+.div136,
+.div139 {
+  position: relative;
+  letter-spacing: 0.06em;
+  line-height: 120%;
+  text-transform: uppercase;
+}
+.div139 {
+  font-size: var(--font-size-lgi);
+}
+.icons8,
+.interno17 {
+  display: flex;
+  justify-content: flex-start;
+}
+.icons8 {
+  width: 225px;
+  flex-direction: row;
+  align-items: center;
+  gap: var(--gap-35xl);
+  text-align: center;
+  font-size: var(--font-size-lg);
+}
+.interno17 {
+  width: 393px;
+  flex-direction: column;
+  align-items: flex-start;
+  gap: var(--gap-12xl);
+  font-size: var(--font-size-21xl);
+}
+.utility8 {
+  position: relative;
+  font-size: var(--font-size-6xl);
+  line-height: 125%;
+  font-family: var(--font-dm-serif-display);
+  color: var(--color-darkslategray);
+}
+.about-us22,
+.home17 {
+  position: relative;
+  letter-spacing: 0.01em;
+  line-height: 300%;
+  align-items: center;
+  flex-shrink: 0;
+  cursor: pointer;
+}
+.home17 {
+  width: 125px;
+  display: flex;
+  height: 42px;
+}
+.about-us22 {
+  height: 36px;
+}
+.about-us22,
+.blogs8,
+.pages8 {
+  width: 125px;
+  display: flex;
+}
+.blogs8 {
+  position: relative;
+  letter-spacing: 0.01em;
+  line-height: 300%;
+  align-items: center;
+  height: 37px;
+  flex-shrink: 0;
+  cursor: pointer;
+}
+.pages8 {
+  height: 279px;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  color: var(--color-dimgray);
+  font-family: var(--font-jost);
+}
+.project-plan9 {
+  position: relative;
+  letter-spacing: 0.01em;
+  line-height: 300%;
+  cursor: pointer;
+}
+.services29 {
+  width: 120px;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  color: var(--color-dimgray);
+  font-family: var(--font-jost);
+}
+.contact28 {
+  width: 87px;
+  position: relative;
+  line-height: 125%;
+  display: flex;
+  align-items: center;
+}
+.jakarta-indonesia-renovahome17 {
+  line-height: 150%;
+}
+.com8 {
+  line-height: 300%;
+}
+.jakarta-indonesia-renovahome16,
+.p8 {
+  margin: 0;
+}
+.p8 {
+  line-height: 300%;
+}
+.jakarta-indonesia-renovahome-container17 {
+  width: 100%;
+}
+.jakarta-indonesia-renovahome-container16 {
+  width: 258px;
+  position: relative;
+  font-size: var(--font-size-3xl);
+  letter-spacing: 0.01em;
+  font-family: var(--font-jost);
+  color: var(--color-dimgray);
+  display: flex;
+  align-items: center;
+}
+.contact27 {
+  width: 258px;
+  height: 225px;
+  flex-direction: column;
+  align-items: flex-start;
+  gap: var(--gap-7xl);
+  font-size: var(--font-size-6xl);
+}
+.contact27,
+.footer8,
+.interno16 {
+  display: flex;
+  justify-content: flex-start;
+}
+.interno16 {
+  width: 1199px;
+  flex-direction: row;
+  align-items: flex-start;
+  gap: var(--gap-82xl);
+}
+.footer8 {
+  position: absolute;
+  top: 4209px;
+  left: 0;
+  width: 1920px;
+  flex-direction: column;
+  align-items: center;
+  font-size: var(--font-size-3xl);
+}
+.project-apartments {
+  width: 100%;
+  position: relative;
+  height: 4488px;
+  text-align: left;
+  font-size: var(--font-size-lg);
+  color: var(--color-darkslategray);
+  font-family: var(--font-dm-serif-display);
+}
